@@ -1,2 +1,0 @@
-# fishcreep-bot
-Kik bot
